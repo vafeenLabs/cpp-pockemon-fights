@@ -1,0 +1,36 @@
+name 1 Манки 1 30
+attacks Brave_Bird 6 3 Futuresight 8 5 CloseCombat 10 7
+weaknesses 3 5
+lives 30
+speed 33
+regen 5
+name 2 Прайм 2 33
+attacks StoneEdge 7 4 PetalBlizzard 8 5 GunkShot 11 6
+weaknesses 1 6  
+lives 33
+speed 55
+regen 5
+name 3 Мачоп 3 40
+attacks Blizzard 6 3 Thunder 7 5 Megahorn 9 7
+weaknesses 5 7 
+lives 40
+speed 38
+regen 5
+name 4 Мачок 4 35
+attacks Hurricane 7 4 FocusBlast 9 5 Overheat 11 6
+weaknesses 1 9
+lives 35
+speed 78 
+regen 5
+name 5 Мачамп 5 42
+attacks HyperBeam 6 3 HydroPump 9 5 ZapCannon 12 7 
+weaknesses 12 13 
+lives 42 
+speed 29
+regen 5
+name 6 Хитмонли 6 39
+attacks FlashCannon 5 4 SolarBeam 8 5 Psychic 11 6
+weaknesses 10 15
+lives 39 
+speed 35
+regen 5
